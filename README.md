@@ -1,8 +1,8 @@
 # FlightPricePrediction
 Flight Price Prediction with Python, Jupyter, and Machine Learning Concepts
 
-# Author: Daehan (Dan) Lee
-# Date: Sept. 29, 2024
+Author: Daehan (Dan) Lee
+Date: Sept. 29, 2024
 
 # Dataset (Requires Login ID)
 https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction?resource=download
