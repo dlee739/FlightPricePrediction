@@ -1,7 +1,5 @@
 # FlightPricePrediction
 Flight Price Prediction with Python, Jupyter, and Machine Learning Concepts
-
-Author: Daehan (Dan) Lee
 Date: Sept. 29, 2024
 
 # Dataset (Requires Login ID)
